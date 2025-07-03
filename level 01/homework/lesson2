@@ -1,0 +1,7 @@
+Name = "Nika"
+mother = "tako"
+dad = "Gio"
+
+print(Name)
+print(mother)
+print(dad)
